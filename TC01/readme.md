@@ -7,3 +7,4 @@ The following Tech Challenge takes a dataset of a public information on loans th
 This iPython notebook (and its published outputs) use Python and additional Python libraries
 
 #### Libraries Used
+Pandas, Numpy, Seaborn, Pyplot, Collections
